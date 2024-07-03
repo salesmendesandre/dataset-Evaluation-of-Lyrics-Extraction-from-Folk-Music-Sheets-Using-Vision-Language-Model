@@ -2,8 +2,8 @@
 Sheets Using Vision Language Models (VLMs)
 
 
-This repository contains the datasets employed in the work "Dataset Evaluation of Lyrics Extraction from Folk Music
+This repository contains the dataset employed in the work "Dataset Evaluation of Lyrics Extraction from Folk Music
 Sheets Using Vision Language Models (VLMs)"
 
 
-Please if you use these datasets cite their work.
+If you use this dataset in your research, please remember to cite the original source.
